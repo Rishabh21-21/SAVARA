@@ -1,0 +1,6 @@
+{
+  "name": "SAVARA - Contemporary Luxury Fashion",
+  "description": "Premium contemporary fashion for men and women. Wear Your Statement. Discover luxury oversized tees, streetwear, co-ords, jackets, and accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
